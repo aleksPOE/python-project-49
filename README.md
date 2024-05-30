@@ -12,3 +12,5 @@
 <script src="https://asciinema.org/a/y60gfJQal9rv2KRI9mY6NlQ9A.js" id="asciicast-y60gfJQal9rv2KRI9mY6NlQ9A" async="true"></script>
 
 <script src="https://asciinema.org/a/sduzdn0QTw7J5aWMDgmRnhhDa.js" id="asciicast-sduzdn0QTw7J5aWMDgmRnhhDa" async="true"></script>
+
+<script src="https://asciinema.org/a/uIq9H3zXteLswFuYnVhGie1Ve.js" id="asciicast-uIq9H3zXteLswFuYnVhGie1Ve" async="true"></script>
