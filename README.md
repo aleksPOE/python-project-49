@@ -8,3 +8,5 @@
 <script src="https://asciinema.org/a/u5x45oKR0mYZRR6S7hzeMJ0LF.js" id="asciicast-u5x45oKR0mYZRR6S7hzeMJ0LF" async="true"></script>
 
 <script src="https://asciinema.org/a/fJSxjQEO8q9n1SoDD7dh9RFa9.js" id="asciicast-fJSxjQEO8q9n1SoDD7dh9RFa9" async="true"></script>
+
+<script src="https://asciinema.org/a/y60gfJQal9rv2KRI9mY6NlQ9A.js" id="asciicast-y60gfJQal9rv2KRI9mY6NlQ9A" async="true"></script>
