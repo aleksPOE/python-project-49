@@ -10,7 +10,7 @@ OPERATIONS = {
 RULE = 'What is the result of the expression?'
 COUNT_FROM = 1
 COUNT_BEFORE = 100
-    
+
 
 def generate_question_and_answer():
     num1 = random.randint(COUNT_FROM, COUNT_BEFORE)
