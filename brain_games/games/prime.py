@@ -4,6 +4,7 @@ RULE = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 COUNT_FROM = 1
 COUNT_BEFORE = 100
 
+
 def is_prime(num):
     if num < 2:
         return False
