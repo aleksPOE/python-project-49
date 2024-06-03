@@ -3,14 +3,12 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/9b8ebb1f942dfc1c3331/maintainability)](https://codeclimate.com/github/aleksPOE/python-project-49/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/9b8ebb1f942dfc1c3331/test_coverage)](https://codeclimate.com/github/aleksPOE/python-project-49/test_coverage)
+[![asciicast install the package, launch the game brain-even](https://asciinema.org/a/Z7M16tm0d9VeDMEwlwkTOgdra.svg)](https://asciinema.org/a/Z7M16tm0d9VeDMEwlwkTOgdra)
 
-<script src="https://asciinema.org/a/u5x45oKR0mYZRR6S7hzeMJ0LF.js" id="asciicast-u5x45oKR0mYZRR6S7hzeMJ0LF" async="true"></script>
+[![asciicast launch the game brain-calc](https://asciinema.org/a/fJSxjQEO8q9n1SoDD7dh9RFa9.svg)](https://asciinema.org/a/fJSxjQEO8q9n1SoDD7dh9RFa9)
 
-<script src="https://asciinema.org/a/fJSxjQEO8q9n1SoDD7dh9RFa9.js" id="asciicast-fJSxjQEO8q9n1SoDD7dh9RFa9" async="true"></script>
+[![asciicast launch the game brain-gcd](https://asciinema.org/a/y60gfJQal9rv2KRI9mY6NlQ9A.svg)](https://asciinema.org/a/y60gfJQal9rv2KRI9mY6NlQ9A)
 
-<script src="https://asciinema.org/a/y60gfJQal9rv2KRI9mY6NlQ9A.js" id="asciicast-y60gfJQal9rv2KRI9mY6NlQ9A" async="true"></script>
+[![asciicast launch the game brain-progression](https://asciinema.org/a/sduzdn0QTw7J5aWMDgmRnhhDa.svg)](https://asciinema.org/a/sduzdn0QTw7J5aWMDgmRnhhDa)
 
-<script src="https://asciinema.org/a/sduzdn0QTw7J5aWMDgmRnhhDa.js" id="asciicast-sduzdn0QTw7J5aWMDgmRnhhDa" async="true"></script>
-
-<script src="https://asciinema.org/a/uIq9H3zXteLswFuYnVhGie1Ve.js" id="asciicast-uIq9H3zXteLswFuYnVhGie1Ve" async="true"></script>
+[![asciicast launch the game brain-prime](https://asciinema.org/a/uIq9H3zXteLswFuYnVhGie1Ve.svg)](https://asciinema.org/a/uIq9H3zXteLswFuYnVhGie1Ve)
