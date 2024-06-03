@@ -3,6 +3,23 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/9b8ebb1f942dfc1c3331/maintainability)](https://codeclimate.com/github/aleksPOE/python-project-49/maintainability)
 
+*Make sure you have Python version 3.6 or higher installed*
+
+*install using poetry*
+
+`poetry run brain-games`
+
+*or clone the repository:*
+`$ git clone git@github.com:aleksPOE/python-project-49.git`
+
+### **Start Game**
+
+`$ brain-even` **Parity check**
+`$ brain-calc` **Calculator**
+`$ brain-gcd` **Greatest common divisor**
+`$ brain-progression` **Arithmetic progression**
+`$ brain-prime` **Is it a prime number?**
+
 [![asciicast install the package, launch the game brain-even](https://asciinema.org/a/Z7M16tm0d9VeDMEwlwkTOgdra.svg)](https://asciinema.org/a/Z7M16tm0d9VeDMEwlwkTOgdra)
 
 [![asciicast launch the game brain-calc](https://asciinema.org/a/fJSxjQEO8q9n1SoDD7dh9RFa9.svg)](https://asciinema.org/a/fJSxjQEO8q9n1SoDD7dh9RFa9)
