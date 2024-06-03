@@ -10,15 +10,21 @@
 `poetry run brain-games`
 
 *or clone the repository:*
+
 `$ git clone git@github.com:aleksPOE/python-project-49.git`
 
 ### **Start Game**
 
 `$ brain-even` **Parity check**
+
 `$ brain-calc` **Calculator**
+
 `$ brain-gcd` **Greatest common divisor**
+
 `$ brain-progression` **Arithmetic progression**
+
 `$ brain-prime` **Is it a prime number?**
+
 
 [![asciicast install the package, launch the game brain-even](https://asciinema.org/a/Z7M16tm0d9VeDMEwlwkTOgdra.svg)](https://asciinema.org/a/Z7M16tm0d9VeDMEwlwkTOgdra)
 
