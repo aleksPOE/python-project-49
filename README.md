@@ -26,13 +26,24 @@ This project was built using these tools:
 
 `$ brain-prime` **Is it a prime number?**
 
+---
 
 [![asciicast install the package, launch the game brain-even](https://asciinema.org/a/Z7M16tm0d9VeDMEwlwkTOgdra.svg)](https://asciinema.org/a/Z7M16tm0d9VeDMEwlwkTOgdra)
 
+---
+
 [![asciicast launch the game brain-calc](https://asciinema.org/a/fJSxjQEO8q9n1SoDD7dh9RFa9.svg)](https://asciinema.org/a/fJSxjQEO8q9n1SoDD7dh9RFa9)
+
+---
 
 [![asciicast launch the game brain-gcd](https://asciinema.org/a/y60gfJQal9rv2KRI9mY6NlQ9A.svg)](https://asciinema.org/a/y60gfJQal9rv2KRI9mY6NlQ9A)
 
+---
+
 [![asciicast launch the game brain-progression](https://asciinema.org/a/sduzdn0QTw7J5aWMDgmRnhhDa.svg)](https://asciinema.org/a/sduzdn0QTw7J5aWMDgmRnhhDa)
 
+---
+
 [![asciicast launch the game brain-prime](https://asciinema.org/a/uIq9H3zXteLswFuYnVhGie1Ve.svg)](https://asciinema.org/a/uIq9H3zXteLswFuYnVhGie1Ve)
+
+---
