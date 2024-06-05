@@ -14,6 +14,32 @@ This project was built using these tools:
 
 ---
 
+### Installation
+
+Make sure you are running at least Python 3.6.0
+
+Install using poetry:
+```bash
+poetry install
+```
+
+Build the package:
+```bash
+poetry build
+```
+
+Debug the publication:
+```bash
+poetry publish --dry-run
+```
+
+Install the package: 
+```bash
+python3 -m pip install --user dist/*.whl.
+```
+> The package installation must be started from the root directory of the project
+
+
 ### Start Game
 
 `$ brain-even` **Parity check**
