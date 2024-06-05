@@ -3,17 +3,18 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/9b8ebb1f942dfc1c3331/maintainability)](https://codeclimate.com/github/aleksPOE/python-project-49/maintainability)
 
-*Make sure you have Python version 3.6 or higher installed*
+### Links
 
-*install using poetry*
+This project was built using these tools:
 
-`poetry run brain-games`
+| Tool                                                                        | Description                                             |
+|-----------------------------------------------------------------------------|---------------------------------------------------------|
+| [poetry](https://python-poetry.org/)                                        | "Python dependency management and packaging made easy"  |
+| [flake8](https://flake8.pycqa.org/)                                         | "Your tool for style guide enforcement" |
 
-*or clone the repository:*
+---
 
-`$ git clone git@github.com:aleksPOE/python-project-49.git`
-
-### **Start Game**
+### Start Game
 
 `$ brain-even` **Parity check**
 
