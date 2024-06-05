@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "A thrilling mind game that challenges players with puzzles and intellectual tasks to test and enhance their cognitive abilities"
 authors = ["aleks10e <hag20052016@gmail.com>"]
 readme = "README.md"
 packages = [
@@ -13,6 +13,7 @@ python = "^3.10"
 prompt = "^0.4.1"
 
 [tool.poetry.scripts]
+brain-games = "brain_games.scripts.brain_games:main"
 brain-calc = 'brain_games.scripts.brain_calc:main'
 brain-even = 'brain_games.scripts.brain_even:main'
 brain-gcd = 'brain_games.scripts.brain_gcd:main'
